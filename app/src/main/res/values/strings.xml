@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="sou_sannareth_hello">SOU SANNARETH Hello</string>
+    <string name="Hello_World" />
+    <string name="hello_world">Hello_World</string>
+    <string name="hih">hih</string>
+    <string name="button">Button</string>
+    <string name="click_me">Click me</string>
+    <string name="currency_exchange">Currency Exchange</string>
+    <string name="khmer_riels_to_usd">Khmer Riels to USD</string>
+    <string name="usd_to_khmer_riels">USD to Khmer Riels</string>
+    <string name="khmer_riels_to_euro">Khmer Riels to Euro</string>
+    <string name="euro_to_khmer_riels">Euro to Khmer Riels</string>
+    <string name="main_activity2">Main Activity2</string>
+    <string name="khmer_to_usd">Khmer to USD</string>
+    <string name="usd_to_khmer">USD To Khmer</string>
+    <string name="khmer_to_euro">Khmer to Euro</string>
+    <string name="euro_to_khmer">Euro to Khmer</string>
+    <string name="riels_to_usd">Riels to USD</string>
+    <string name="usd_to_riels">USD to Riels</string>
+    <string name="euro_to_riels">Euro to Riels</string>
+    <string name="riels_to_euro">Riels to Euro</string>
+    <string name="exchange">Exchange</string>
+</resources>
