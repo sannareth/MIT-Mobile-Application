@@ -1,2 +1,2 @@
 --Mobile Application Course--
--All homework is contained in this repository which devided into branch.
+-All homework is contained in this repository which divided into branch.
